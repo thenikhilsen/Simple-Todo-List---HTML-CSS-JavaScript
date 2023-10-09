@@ -1,0 +1,25 @@
+@media screen and (max-width: 991px){
+    .todo_app{
+        height: 80vh;
+    }
+    .todo_app h2{
+        font-size: 62px;
+    }
+}
+@media screen and (max-width: 791px){
+    .todo_app{
+        height: 60vh;
+    }
+    .todo_app h2{
+        font-size: 52px;
+    }
+}
+@media screen and (max-width: 479px){
+    .todo_app{
+        height: 50vh;
+    }
+    .todo_app h2{
+        font-size: 42px;
+    }
+    
+}
